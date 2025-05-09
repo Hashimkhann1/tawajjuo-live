@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a8ba38d2ea5af7577533ffe7b64f1042",
+const RESOURCES = {"flutter_bootstrap.js": "b6907bd4973befdd8684f96e04b93624",
 "version.json": "599491446cdca6d993372e8af0781272",
 "favicon.ico": "622090f3946579bc55b724af3d2da1a2",
 "index.html": "c1b6d7a0b1782ee0ab6f6b11fb5f2e8a",
@@ -12,10 +12,10 @@ const RESOURCES = {"flutter_bootstrap.js": "a8ba38d2ea5af7577533ffe7b64f1042",
 "main.dart.js": "4c9bbdf713490f429647ee02241a3c24",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"icons/Icon-192.png": "aeac464388b8ab995847ae11030c578f",
+"icons/Icon-maskable-192.png": "aeac464388b8ab995847ae11030c578f",
+"icons/Icon-maskable-512.png": "8a34567176f136f732d8bcb54293fc02",
+"icons/Icon-512.png": "8a34567176f136f732d8bcb54293fc02",
 "manifest.json": "31f5bce1a38f43fb7214cf2e384aafdf",
 "assets/images/icons/addClassRoom.png": "6a7d6c9a29cbcd96a66b8c0cc8c37698",
 "assets/images/icons/registerStudent.png": "f77c62d040afaa2203e18ce24df1f82f",
